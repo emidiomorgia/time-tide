@@ -32,24 +32,18 @@ A web based, Time management, activity planning, reporting of hours worked. Crea
   </p>
 </div>
 
-
-
 <!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
+## Table of contents
+
+  
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
+    <li><a href="#status-of-the-project">Status Of The Project</a></li>
+    <li><a href="#built-with">Built With</a></li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
@@ -58,9 +52,6 @@ A web based, Time management, activity planning, reporting of hours worked. Crea
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
-</details>
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -73,7 +64,21 @@ A web based, Time management, activity planning, reporting of hours worked. Crea
 
 
 
-### Built With
+
+
+## Status Of The Project
+<!-- Status -->
+
+| Project             | Build Status | Progress     |
+| ------------------- | ------------ | ------------ | 
+| Front-End           |              | In progress  |
+| BFF                 |              | In progress  |
+| Identity Service    |              | In progress  |
+
+
+
+
+## Built With
 
 A list of major frameworks/libraries, design and architecture pattern used in this project.
 
