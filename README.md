@@ -5,7 +5,7 @@ A web based, Time management, activity planning, reporting of hours worked. Crea
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![AGPL3 License][license-shield]][license-url]
 
 
 
